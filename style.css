@@ -3,20 +3,24 @@
     text-align: center;
     }
     
+
     h2 {
     text-align: center;
     text-decoration: underline;
     {
     
+        
     p {
     color: green;
     font-family: Tahoma;
     }
     
+        
     ul {
     font-style: italic;
     }
     
+        
     ol {
     font-size: 1.6em;
     font-weight: bold;
